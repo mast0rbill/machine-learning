@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning with Neural Networks
 
 This project demonstrates two relatively simple neural networks. I was very interested in artificial intelligence, so I read up on resources online and made these two.
 
